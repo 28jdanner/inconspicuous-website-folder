@@ -1,0 +1,29 @@
+body{
+    height:100%;
+    background: #000044;
+    background: linear-gradient(180deg, rgba(0, 0, 68, 1) 0%, rgba(0, 0, 90, 1) 40%, rgba(0, 0, 0, 1) 100%);
+    display:flex;
+    justify-content: center;
+}
+
+.susie{
+    color:rgb(81, 18, 140);
+}
+.ralsei{
+    color:rgb(0, 100, 0);
+}
+.textcolumn{
+    background-color: black;
+    height:1100px;
+    width:40%;
+    margin-top:-10px;
+}
+.darkral{
+    color:rgb(0,50,0)
+}
+.darksus{
+    color:rgb(40,9,70)
+}
+.black{
+    color:black
+}

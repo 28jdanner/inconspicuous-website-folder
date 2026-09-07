@@ -1,3 +1,38 @@
 p{
-    color:magenta
+    color:magenta;
+    font-family: cursive;
+}
+
+body{
+    height:100%;
+    background-color: rgb(255, 175, 239);
+}
+
+.headerdiv{
+    width:50%;
+    height:50px;
+    background-color: rgb(175, 0, 0);
+    display:flex;
+    align-items:center;
+}
+
+.white{
+    color:white;
+}
+
+.nothing{
+    height:200px;
+}
+
+.maintextdiv{
+    background-color: darkmagenta;
+    height:500px;
+    width:50%;
+}
+.commentdiv{
+    background-color:rgb(63, 0, 63);
+    height:50px;
+    width:50%;
+    display:flex;
+    align-items: center;
 }
