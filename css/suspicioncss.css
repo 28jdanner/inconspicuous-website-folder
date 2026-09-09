@@ -6,6 +6,39 @@ body{
     background-color: black;
     flex-direction: column;
 }
-p{
+.magenta{
     color:magenta;
+}
+
+.gaster{
+    color:white;
+    font-size: larger;
+}
+.catgirlbox{
+    display:flex;
+    justify-content: center;
+    width:30%;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.pinkbox{
+    background-color:pink;
+    width:25px;
+    height:25px;
+}
+.magentabox{
+    background-color:magenta;
+    width:25px;
+    height:25px;
+}
+.colorsbox{
+    display:flex;
+    flex-direction: row;
+    width:50px;
+    height:25px;
+    justify-content:center;
+}
+white{
+    color:white;
 }
