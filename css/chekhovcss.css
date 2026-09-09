@@ -1,0 +1,11 @@
+body{
+    height:100%;
+    background-color: #7d01e2;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.mxch{
+    color:#d40105;
+}
